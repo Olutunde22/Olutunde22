@@ -58,7 +58,7 @@ I believe that a truly great user interface is an invisible one—where the arch
 
 ### 📝 From My Desk
 I occasionally write about the architectural challenges I solve. Check out my latest technical deep-dive:
-- 📖 [**A Cleaner Way to Inject Runtime Configs in React with Docker and nginx**](#)
+- 📖 [**A Cleaner Way to Inject Runtime Configs in React with Docker and nginx**](https://medium.com/@olutunde/a-cleaner-way-to-inject-runtime-configs-in-react-with-docker-and-nginx-0c6e75af476f)
 
 <br/>
 
